@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "builds": [
+    {
+      "edition": "2006 retail disc",
+      "xex_sha256": "cfc732340e55defda400e25f03231aa9bb65fd9545b618212f69a4952384a5dd",
+      "xex_size": 8237056,
+      "nro": "project8-sw.nro",
+      "nro_sha256": "0a2f584d14bdc0d1feed701df2d3f55e146229f412bcd7b789eb3f8603b56106",
+      "toml": "thps_p8.toml"
+    }
+  ]
+}
